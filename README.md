@@ -130,8 +130,9 @@
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
         alt="webpack" width="40" height="40" /> </a> 
   </p>
+<!-- 
 <a href="https://drive.google.com/drive/u/0/folders/1HSCHz1NO5om4pmthpO5kLFZFYFskOZo_">_</a>
-<!--
+
   <h3 align="left">Connect with me:</h3>
   <p align="left">  
     <a href="https://codepen.io/AlphaCoX" target="blank"><img align="center"

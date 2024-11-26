@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlphaCoX&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=AlphaCoX&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![NJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaCoX&show_icons=true&theme=tokyonight)
 
@@ -8,9 +8,6 @@
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaCoX&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
  
 ![](https://komarev.com/ghpvc/?username=AlphaCoX)
 

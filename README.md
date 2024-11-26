@@ -1,15 +1,4 @@
-### Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=AlphaCoX)
-
-<p align="center">
-    <a href="https://github.com/AlphaCoX/AlphaCoX"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/AlphaCoX/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/AlphaCoX/AlphaCoX?color=blue"></a>
-    <a href="https://github.com/AlphaCoX/AlphaCoX/stargazers"><img src="https://img.shields.io/github/stars/AlphaCoX/AlphaCoX.svg?logo=github"></a>
-    <a href="https://github.com/AlphaCoX/AlphaCoX/network/members"><img src="https://img.shields.io/github/forks/AlphaCoX/AlphaCoX.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=AlphaCoX.AlphaCoX" alt="visitors"/>   
-</p>
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=AlphaCoX) 
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AlphaCoX&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 

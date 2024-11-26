@@ -1,18 +1,19 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=AlphaCoX)
+
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=AlphaCoX&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![NJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlphaCoX&show_icons=true&theme=tokyonight)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaCoX&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
--->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaCoX&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaCoX&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
  
  
-![](https://komarev.com/ghpvc/?username=AlphaCoX)
 
 
-  <h3 align="left">Skillsets</h3>
+  <h3 align="left">Skills</h3>
 <p align="left">
     <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer">
       <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a>

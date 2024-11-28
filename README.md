@@ -1,4 +1,6 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=AlphaCoX) 
+### Hi there 👋 
+
+![](https://komarev.com/ghpvc/?username=AlphaCoX) 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlphaCoX&no-frame=true&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
